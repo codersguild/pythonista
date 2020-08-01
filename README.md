@@ -1,2 +1,2 @@
 # python
-Python for Software Architects
+Python for Software Architects & Noobs
