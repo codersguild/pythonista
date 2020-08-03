@@ -1,0 +1,1001 @@
+age,gender,genre
+41,0,Dance Street
+24,1,EDM
+51,0,Hindi Pop
+23,1,Hindi Jazz
+60,0,English Jazz
+48,1,HipHop
+57,1,Bengali Classical
+49,1,Classical
+37,0,EDM
+62,1,Bengali Jazz
+50,1,Hindi Jazz
+18,1,English Jazz
+52,1,English Jazz
+56,0,Hindi Pop
+42,0,Dance Street
+47,0,EDM
+38,1,Hindi Jazz
+32,1,Classical
+16,0,English Pop
+59,0,Hindi Jazz
+30,1,Bengali Classical
+47,1,Bengali Jazz
+47,0,EDM
+40,1,Bhojpuri
+53,0,HipHop
+25,0,English Jazz
+62,1,Hindi Pop
+54,0,Bengali Classical
+27,1,Classical
+62,1,English Jazz
+21,1,Dance Street
+36,1,EDM
+47,0,Hindi Pop
+52,1,Bengali Jazz
+49,1,Hindi Pop
+61,0,EDM
+49,1,Hindi Pop
+65,0,Hindi Jazz
+25,1,HipHop
+26,0,Bhojpuri
+38,1,Hindi Pop
+21,0,Bengali Jazz
+53,0,Bhajan
+39,1,Dance Street
+21,1,Classical
+57,1,Hindi Pop
+37,0,English Jazz
+64,1,Bengali Jazz
+28,0,Bhojpuri
+38,1,Hindi Pop
+15,0,HipHop
+30,1,Hindi Jazz
+63,1,English Pop
+26,0,English Pop
+19,0,Hindi Pop
+44,1,Classical
+61,1,English Jazz
+27,1,Hindi Jazz
+60,1,Dance Street
+38,1,Hindi Jazz
+61,0,Bhajan
+47,0,English Jazz
+52,0,Dance Street
+21,0,English Pop
+39,0,English Pop
+44,0,Bengali Classical
+23,1,Hindi Jazz
+18,0,Bhojpuri
+25,0,Bhajan
+16,0,Bhojpuri
+58,1,Hindi Pop
+16,1,Bhojpuri
+64,1,Bengali Classical
+31,0,Bhojpuri
+15,0,Bengali Jazz
+56,1,Bengali Jazz
+29,1,Dance Street
+50,1,English Pop
+51,0,Hindi Jazz
+54,1,Bengali Jazz
+29,1,Bengali Jazz
+44,1,EDM
+24,0,Classical
+34,0,Bengali Jazz
+25,1,Classical
+41,0,English Jazz
+57,0,Hindi Pop
+16,0,HipHop
+44,0,EDM
+25,1,English Pop
+36,1,Hindi Pop
+38,1,Hindi Jazz
+53,1,Bhajan
+17,0,Hindi Pop
+42,0,Bengali Classical
+57,0,EDM
+17,0,Bhajan
+44,1,English Pop
+56,1,English Pop
+65,1,Dance Street
+45,1,Bhajan
+64,0,Bhojpuri
+24,0,HipHop
+61,1,EDM
+46,1,Bhajan
+53,0,Hindi Pop
+56,0,EDM
+35,1,Hindi Jazz
+40,0,HipHop
+65,0,Hindi Pop
+61,0,HipHop
+58,0,Bhajan
+34,0,English Jazz
+23,1,English Jazz
+31,0,Bengali Classical
+59,1,Bengali Jazz
+62,1,Hindi Pop
+36,1,EDM
+30,0,HipHop
+62,0,Classical
+32,1,Bengali Jazz
+36,0,Bhajan
+28,1,Bhajan
+43,0,HipHop
+27,0,Bhojpuri
+27,1,Dance Street
+59,0,Bengali Classical
+33,1,Bengali Classical
+50,1,English Jazz
+60,0,English Jazz
+60,0,HipHop
+24,0,HipHop
+29,0,Hindi Jazz
+48,0,HipHop
+62,1,Bengali Jazz
+24,1,EDM
+37,0,Bengali Classical
+55,0,Dance Street
+29,0,Bhojpuri
+31,1,Bengali Classical
+20,1,English Jazz
+52,1,Bengali Jazz
+64,1,Bhajan
+45,0,Bengali Jazz
+58,0,English Jazz
+26,0,Bhajan
+30,1,Bhojpuri
+41,0,Bhajan
+18,0,Dance Street
+61,1,Bengali Jazz
+38,0,Dance Street
+64,0,English Jazz
+23,0,Hindi Jazz
+58,0,Dance Street
+19,0,Bhajan
+47,1,Hindi Pop
+22,0,Bhajan
+36,0,Classical
+47,1,Bengali Classical
+51,1,Hindi Pop
+35,0,Hindi Pop
+34,1,Bengali Jazz
+62,1,Bengali Classical
+35,0,Bhajan
+30,0,English Pop
+61,0,EDM
+46,0,English Pop
+50,0,Bhojpuri
+17,0,Hindi Pop
+32,1,Dance Street
+17,1,Bhajan
+40,0,Bengali Classical
+16,1,HipHop
+47,1,EDM
+51,0,Bhajan
+31,1,Hindi Jazz
+60,0,Hindi Pop
+25,0,Hindi Pop
+51,0,Bengali Jazz
+45,1,Classical
+28,1,Dance Street
+15,1,Hindi Jazz
+54,1,Bhajan
+43,0,Bhojpuri
+26,0,English Jazz
+15,0,Hindi Jazz
+27,1,Bengali Jazz
+53,1,Classical
+65,0,Bhajan
+34,1,Bengali Jazz
+33,0,Bhojpuri
+18,0,EDM
+42,1,Classical
+31,1,Bengali Jazz
+28,1,Bhojpuri
+35,0,EDM
+52,0,EDM
+65,0,Bengali Classical
+27,0,English Jazz
+57,1,Classical
+24,1,Dance Street
+46,0,Dance Street
+15,1,Bengali Classical
+49,1,Classical
+49,0,English Pop
+26,0,Bengali Classical
+26,1,Hindi Jazz
+40,1,Bengali Classical
+17,1,Classical
+59,0,Bhojpuri
+54,0,English Pop
+19,1,Bengali Classical
+40,1,Bengali Classical
+44,1,Dance Street
+50,1,Dance Street
+44,0,Bengali Classical
+42,1,Bhojpuri
+37,0,English Jazz
+17,0,EDM
+37,1,Hindi Jazz
+61,1,HipHop
+53,1,Classical
+34,1,Hindi Jazz
+57,1,HipHop
+38,0,EDM
+52,1,English Jazz
+35,0,Bengali Jazz
+53,0,Dance Street
+52,0,English Jazz
+29,1,Classical
+21,1,English Pop
+29,0,Bhajan
+34,1,Dance Street
+38,0,Classical
+40,1,Dance Street
+31,0,Hindi Jazz
+57,0,Bhajan
+52,0,Bengali Classical
+52,0,English Jazz
+33,0,Bengali Classical
+42,0,Classical
+65,1,Dance Street
+27,0,HipHop
+45,1,EDM
+19,0,English Pop
+51,1,Bengali Classical
+46,1,Hindi Pop
+49,0,EDM
+63,0,Hindi Jazz
+39,1,Bhojpuri
+57,0,Bengali Jazz
+24,1,Classical
+59,0,Bhajan
+60,1,Hindi Pop
+54,1,Hindi Pop
+37,1,Hindi Pop
+64,1,Hindi Jazz
+17,0,English Pop
+50,0,Classical
+27,0,HipHop
+54,1,Hindi Jazz
+17,1,Bhajan
+33,0,Bengali Classical
+48,0,Bhojpuri
+29,1,EDM
+21,0,Bengali Classical
+27,1,English Pop
+47,0,Hindi Jazz
+17,0,Bhojpuri
+28,0,Hindi Jazz
+60,0,Dance Street
+28,0,Bhajan
+57,1,Bhajan
+62,0,Classical
+53,1,Bhajan
+45,0,Bhojpuri
+23,1,Bhojpuri
+54,1,Hindi Jazz
+29,0,English Pop
+60,1,Dance Street
+25,0,Bengali Jazz
+42,1,Bengali Jazz
+53,1,Bhajan
+16,1,Bengali Classical
+44,0,Bhajan
+60,0,EDM
+44,1,Bengali Classical
+58,0,HipHop
+24,0,Hindi Jazz
+19,0,Hindi Pop
+58,0,Bengali Classical
+37,0,Dance Street
+41,1,Dance Street
+65,0,Bengali Jazz
+59,1,Dance Street
+59,0,English Pop
+59,0,Dance Street
+55,1,English Pop
+34,1,Dance Street
+31,1,HipHop
+32,0,Hindi Pop
+16,0,Bengali Jazz
+57,1,English Pop
+39,0,Bhojpuri
+49,1,English Pop
+49,0,Bhojpuri
+62,0,HipHop
+56,0,English Jazz
+65,0,Bhojpuri
+60,1,EDM
+43,1,Bengali Classical
+27,1,Hindi Pop
+38,1,HipHop
+33,1,Hindi Jazz
+39,0,English Pop
+16,0,English Pop
+60,0,English Pop
+45,1,Classical
+22,0,English Pop
+29,0,Hindi Pop
+18,0,Bengali Jazz
+47,0,Hindi Pop
+45,0,Hindi Pop
+57,0,Bengali Classical
+41,0,EDM
+55,1,Bengali Classical
+58,1,EDM
+25,1,Bengali Jazz
+49,0,Bhojpuri
+61,1,EDM
+27,1,Classical
+32,1,Hindi Jazz
+39,1,Bengali Jazz
+43,1,HipHop
+59,1,HipHop
+39,0,Hindi Pop
+25,0,Classical
+33,1,Hindi Pop
+56,0,HipHop
+60,0,English Jazz
+31,0,Hindi Pop
+26,0,Bengali Jazz
+20,1,HipHop
+33,0,Hindi Pop
+53,1,Hindi Pop
+46,1,Bhojpuri
+18,0,Classical
+63,1,Hindi Pop
+58,0,Hindi Pop
+26,0,Bhojpuri
+40,1,Bhajan
+41,0,Bengali Classical
+49,1,Bengali Classical
+54,1,Dance Street
+64,0,English Pop
+16,1,Bhajan
+50,1,English Pop
+62,1,HipHop
+51,1,Dance Street
+50,0,Dance Street
+20,1,Hindi Pop
+54,1,English Pop
+52,1,Bhajan
+47,0,Bhojpuri
+29,1,HipHop
+18,1,Bengali Classical
+37,1,Dance Street
+20,0,Hindi Jazz
+64,1,English Jazz
+53,0,EDM
+63,1,EDM
+42,0,English Pop
+47,1,English Jazz
+20,0,Bhajan
+53,1,Dance Street
+45,1,Bhojpuri
+18,1,Dance Street
+25,1,Bhajan
+22,1,Bengali Jazz
+52,0,HipHop
+47,1,Bengali Jazz
+48,1,Classical
+34,1,Bengali Jazz
+49,1,Bengali Jazz
+55,1,Bengali Classical
+54,0,Hindi Jazz
+27,0,Classical
+37,0,Dance Street
+44,0,Classical
+47,0,English Jazz
+16,1,English Jazz
+26,1,Hindi Pop
+42,0,English Pop
+65,0,Bengali Classical
+38,1,Bhajan
+52,1,English Pop
+17,0,English Pop
+49,0,EDM
+16,1,Bhojpuri
+48,1,Dance Street
+56,0,Dance Street
+37,0,Bhojpuri
+25,0,Bengali Jazz
+38,0,Dance Street
+61,0,English Pop
+54,0,English Jazz
+27,0,English Jazz
+33,1,Bhojpuri
+57,0,HipHop
+50,1,EDM
+51,0,Bengali Classical
+24,0,Bengali Jazz
+41,1,English Jazz
+59,1,Bengali Jazz
+32,1,Dance Street
+19,0,English Jazz
+21,1,EDM
+27,0,Bhajan
+37,1,Classical
+65,1,Dance Street
+25,1,Bengali Classical
+47,1,Bhojpuri
+21,0,Dance Street
+31,1,Classical
+17,0,Bengali Jazz
+63,0,EDM
+42,1,Bhojpuri
+50,1,Classical
+33,0,Hindi Jazz
+21,0,English Jazz
+58,1,English Jazz
+26,0,Bhojpuri
+52,1,Bengali Jazz
+21,0,Classical
+60,0,HipHop
+40,1,Bhojpuri
+44,1,Classical
+31,0,Classical
+19,0,Classical
+19,0,Bengali Classical
+23,1,Bhojpuri
+16,1,Hindi Jazz
+47,0,EDM
+18,1,EDM
+61,0,English Jazz
+15,0,English Pop
+49,0,Bengali Classical
+39,0,English Pop
+33,1,Bengali Classical
+20,1,Dance Street
+58,1,Classical
+32,1,Bengali Jazz
+25,1,English Pop
+18,1,Bengali Classical
+38,1,EDM
+61,1,EDM
+38,0,English Jazz
+57,1,Bengali Classical
+23,0,Bhojpuri
+32,1,English Jazz
+52,1,Bhajan
+37,0,Dance Street
+47,0,HipHop
+18,0,Hindi Pop
+30,1,English Pop
+61,0,Hindi Pop
+18,0,Classical
+50,1,Dance Street
+42,0,Bhajan
+33,1,English Pop
+18,1,Dance Street
+26,0,Dance Street
+46,1,Classical
+36,0,HipHop
+23,1,Dance Street
+32,1,Classical
+53,0,Hindi Jazz
+49,1,HipHop
+45,0,Dance Street
+31,1,English Jazz
+16,1,English Jazz
+34,0,Bhajan
+54,1,Hindi Pop
+58,1,Hindi Jazz
+40,1,Bengali Jazz
+22,1,HipHop
+30,1,Dance Street
+21,0,Bhojpuri
+64,1,Bhajan
+34,1,EDM
+19,1,Classical
+33,1,Bhojpuri
+19,0,Hindi Pop
+35,0,EDM
+17,0,Bhojpuri
+60,1,Bhojpuri
+36,1,HipHop
+36,0,Bengali Classical
+31,1,English Pop
+42,0,Dance Street
+26,0,Bengali Jazz
+50,0,Bengali Classical
+62,1,Bhojpuri
+47,0,English Pop
+24,1,English Pop
+30,0,Classical
+24,1,Hindi Jazz
+50,1,Bhajan
+37,0,Dance Street
+53,0,EDM
+19,1,Bengali Jazz
+27,0,English Pop
+21,1,Dance Street
+45,0,EDM
+46,0,Dance Street
+43,1,Hindi Pop
+29,1,Bengali Classical
+57,0,Dance Street
+46,0,Bengali Classical
+23,1,Bengali Jazz
+26,0,Hindi Jazz
+48,1,Hindi Pop
+63,1,Bengali Classical
+58,0,Hindi Jazz
+57,0,Bhojpuri
+30,0,English Pop
+57,1,Bhajan
+27,0,Bengali Jazz
+27,1,Dance Street
+55,1,English Pop
+15,1,Bhojpuri
+40,1,Bengali Jazz
+16,0,Classical
+16,1,Hindi Pop
+49,0,Bhojpuri
+53,1,Classical
+35,0,Bengali Jazz
+25,0,Dance Street
+41,1,Bengali Jazz
+29,1,Dance Street
+36,0,Bengali Jazz
+41,0,Classical
+50,0,Bhojpuri
+64,1,Bengali Jazz
+24,1,Dance Street
+33,1,Bengali Classical
+20,1,Classical
+15,1,HipHop
+48,0,Hindi Pop
+26,1,HipHop
+44,1,English Jazz
+59,0,Bhajan
+46,0,Hindi Pop
+48,0,English Jazz
+44,1,English Jazz
+56,0,Bengali Jazz
+41,1,English Jazz
+33,0,Classical
+59,0,HipHop
+24,0,HipHop
+32,0,Classical
+59,0,English Jazz
+22,0,English Pop
+21,0,Hindi Pop
+38,1,Hindi Pop
+24,0,Bhajan
+28,0,Bhajan
+48,1,Hindi Jazz
+32,0,Bhajan
+49,1,Hindi Pop
+23,1,Hindi Pop
+36,0,Bengali Jazz
+18,0,Bengali Jazz
+49,0,Bhojpuri
+35,1,Hindi Pop
+26,1,Bhajan
+19,0,EDM
+36,0,HipHop
+22,1,Dance Street
+40,1,Bengali Classical
+59,1,Hindi Jazz
+27,1,English Jazz
+58,1,Bhajan
+42,0,EDM
+30,0,HipHop
+37,1,English Jazz
+28,0,Bengali Jazz
+56,1,Dance Street
+50,1,Bhojpuri
+18,1,English Jazz
+52,0,Bhojpuri
+26,1,Hindi Jazz
+35,0,Bengali Classical
+55,0,Bengali Jazz
+23,1,HipHop
+34,1,Classical
+28,0,Bengali Classical
+16,1,Bengali Jazz
+36,1,Bhajan
+32,1,Bengali Jazz
+22,0,EDM
+36,0,Bengali Classical
+59,1,EDM
+62,1,Bhajan
+64,0,Bengali Classical
+37,1,Bengali Jazz
+40,0,HipHop
+36,1,English Jazz
+48,1,HipHop
+59,1,Hindi Pop
+19,1,Bengali Jazz
+39,1,Bhajan
+31,0,Bengali Classical
+52,0,HipHop
+53,1,HipHop
+42,1,Bengali Classical
+54,1,English Pop
+34,0,English Jazz
+53,1,Classical
+47,1,English Jazz
+51,0,Hindi Pop
+20,0,HipHop
+36,0,Bengali Jazz
+53,0,English Pop
+62,0,EDM
+16,0,EDM
+22,0,English Pop
+51,0,English Jazz
+24,1,Hindi Pop
+21,1,Dance Street
+52,0,Classical
+57,1,Hindi Pop
+16,1,Bhojpuri
+34,0,English Jazz
+64,1,HipHop
+19,1,Bhojpuri
+49,0,Dance Street
+52,0,Bhajan
+33,0,Bhajan
+18,1,Hindi Jazz
+32,1,Bengali Jazz
+51,0,Bengali Jazz
+39,1,Bengali Classical
+57,0,Bhajan
+58,1,English Pop
+21,1,Classical
+30,1,Classical
+43,1,Classical
+64,0,English Jazz
+20,1,Bengali Jazz
+64,0,Bhojpuri
+26,1,Hindi Jazz
+27,0,Dance Street
+31,0,Bhajan
+63,1,Bengali Classical
+35,1,Bhojpuri
+34,1,English Jazz
+55,1,English Jazz
+15,1,English Pop
+52,1,Hindi Jazz
+30,0,Bengali Jazz
+45,0,Classical
+26,0,Bengali Classical
+41,0,Dance Street
+45,0,EDM
+65,1,Bengali Classical
+39,1,Bengali Classical
+34,1,Hindi Pop
+33,1,Dance Street
+46,0,Classical
+18,1,EDM
+63,0,Bengali Jazz
+53,1,Bhajan
+35,1,Hindi Pop
+52,1,EDM
+58,1,Bengali Classical
+34,0,EDM
+56,1,EDM
+46,0,EDM
+46,1,Bhajan
+45,0,Bhajan
+43,0,HipHop
+44,0,Dance Street
+35,1,English Jazz
+54,0,Bhajan
+63,0,HipHop
+15,0,Bhajan
+62,1,Bengali Jazz
+57,1,English Jazz
+33,0,Hindi Pop
+53,0,Bengali Jazz
+53,0,Hindi Pop
+57,0,Classical
+51,0,English Pop
+51,0,Classical
+29,1,Classical
+30,0,Bhajan
+57,1,English Jazz
+25,1,Hindi Pop
+46,1,Bengali Jazz
+26,1,English Pop
+48,0,Bengali Jazz
+54,1,Classical
+60,1,Hindi Jazz
+58,1,Hindi Jazz
+22,0,Classical
+59,1,English Pop
+20,1,EDM
+59,0,Classical
+22,1,Bhajan
+54,0,Classical
+38,1,Dance Street
+18,1,Bengali Classical
+41,0,Hindi Jazz
+37,1,Hindi Jazz
+16,1,English Jazz
+39,0,Bhojpuri
+44,0,Bengali Jazz
+59,1,Bengali Classical
+59,1,Dance Street
+28,1,Hindi Pop
+36,0,Bengali Jazz
+49,0,Dance Street
+32,0,Hindi Pop
+63,1,Bhajan
+33,0,Bhojpuri
+62,0,Dance Street
+58,1,Bengali Jazz
+27,1,Bhajan
+34,1,Bhajan
+35,0,English Pop
+43,1,Bhojpuri
+23,1,EDM
+24,1,Bengali Classical
+39,0,EDM
+55,1,Classical
+45,1,Classical
+42,1,Bengali Classical
+34,0,Bhajan
+55,0,Hindi Jazz
+48,0,English Pop
+30,0,Bengali Jazz
+60,1,English Jazz
+15,0,Bengali Classical
+16,1,HipHop
+51,1,Hindi Pop
+64,0,Dance Street
+33,0,Dance Street
+24,0,HipHop
+58,1,Hindi Pop
+34,0,Bhajan
+19,0,English Jazz
+62,1,EDM
+23,1,Hindi Jazz
+22,0,English Jazz
+45,0,Bhajan
+22,0,English Pop
+44,1,English Pop
+18,0,HipHop
+65,0,Hindi Jazz
+16,1,Hindi Pop
+40,1,Bhajan
+27,1,EDM
+52,1,English Pop
+23,1,Hindi Jazz
+35,0,HipHop
+49,1,Hindi Jazz
+53,1,Bhojpuri
+29,1,English Pop
+51,1,English Pop
+29,0,Bengali Jazz
+29,1,Bhojpuri
+53,0,Dance Street
+18,1,Classical
+25,0,Classical
+17,1,EDM
+51,1,Bhajan
+31,0,Bengali Classical
+42,1,Hindi Pop
+20,1,Hindi Jazz
+19,0,Bengali Jazz
+15,1,English Jazz
+18,1,Dance Street
+21,0,Classical
+48,1,Hindi Jazz
+63,1,Dance Street
+49,0,Dance Street
+39,1,EDM
+53,1,Bengali Classical
+27,0,English Pop
+34,0,EDM
+45,0,Bhajan
+26,1,Classical
+60,1,Hindi Pop
+32,0,Bhojpuri
+24,0,Classical
+18,1,Bengali Jazz
+23,1,Hindi Pop
+16,1,English Pop
+15,1,English Pop
+43,1,Bhojpuri
+53,1,Classical
+49,0,Bhojpuri
+58,1,EDM
+24,0,Classical
+55,1,English Jazz
+34,0,Dance Street
+43,1,Hindi Jazz
+36,1,Hindi Pop
+25,0,Bengali Jazz
+57,0,Bhajan
+33,0,English Jazz
+26,0,English Pop
+47,0,EDM
+42,1,Hindi Jazz
+53,0,Bhojpuri
+61,1,Hindi Jazz
+30,0,Bengali Classical
+42,1,Hindi Pop
+24,0,Hindi Pop
+51,0,Bengali Jazz
+48,1,English Pop
+60,0,Bhojpuri
+49,1,Hindi Pop
+44,1,English Jazz
+32,1,English Jazz
+59,1,Classical
+42,0,EDM
+36,1,Classical
+17,1,Dance Street
+23,1,HipHop
+49,0,Bhajan
+47,0,HipHop
+18,0,Bengali Jazz
+16,0,Hindi Pop
+30,0,HipHop
+59,0,EDM
+60,0,Bengali Classical
+46,1,Bengali Jazz
+28,1,Bhojpuri
+19,0,Bhojpuri
+43,1,Bhojpuri
+24,1,Classical
+37,0,EDM
+25,0,Bengali Classical
+56,1,Bhajan
+22,1,English Pop
+54,0,English Pop
+15,0,Bhojpuri
+65,1,Classical
+37,0,HipHop
+40,1,EDM
+38,1,Hindi Pop
+23,0,Bhajan
+57,0,HipHop
+24,1,HipHop
+53,1,Bhojpuri
+20,1,Hindi Jazz
+44,0,Dance Street
+16,0,EDM
+43,1,Dance Street
+37,1,English Pop
+20,1,Hindi Pop
+33,0,Bengali Classical
+64,0,HipHop
+28,0,English Jazz
+21,1,English Jazz
+31,1,Hindi Jazz
+38,0,Classical
+62,0,Bhojpuri
+49,1,Dance Street
+17,1,Hindi Jazz
+60,0,Bengali Jazz
+61,0,Hindi Pop
+37,1,Hindi Pop
+30,0,Bengali Jazz
+27,0,Hindi Pop
+19,0,Bhojpuri
+30,0,Bengali Jazz
+53,1,Bhojpuri
+52,1,Hindi Pop
+33,0,Bengali Classical
+56,1,Hindi Pop
+17,0,Hindi Pop
+65,1,Dance Street
+35,1,Dance Street
+57,1,Bhajan
+34,1,Bhajan
+42,1,English Pop
+26,1,EDM
+61,0,Bhojpuri
+49,1,Classical
+53,1,Dance Street
+63,0,EDM
+27,0,HipHop
+16,0,Bhajan
+62,1,English Jazz
+17,0,HipHop
+21,1,Bhojpuri
+19,1,EDM
+33,0,Hindi Jazz
+21,0,Hindi Jazz
+39,1,Dance Street
+24,1,Hindi Jazz
+58,1,Bhajan
+65,0,Hindi Pop
+27,0,English Pop
+52,0,Bengali Jazz
+21,1,Bhajan
+16,0,English Jazz
+43,0,Dance Street
+55,0,Bengali Jazz
+17,1,English Jazz
+60,0,Dance Street
+46,1,English Jazz
+50,0,HipHop
+50,0,English Pop
+59,1,Bhojpuri
+50,0,Bengali Classical
+46,1,English Pop
+54,0,Bengali Classical
+40,1,Dance Street
+56,1,Dance Street
+20,1,Bengali Classical
+38,1,Dance Street
+65,1,Hindi Jazz
+17,0,English Pop
+41,0,Hindi Pop
+38,0,Classical
+39,1,EDM
+18,1,English Jazz
+37,0,Bengali Jazz
+64,0,EDM
+62,0,English Pop
+19,1,English Jazz
+44,0,Bengali Jazz
+60,0,Bhojpuri
+30,0,Bhajan
+15,0,Hindi Pop
+42,1,Bengali Classical
+46,1,Hindi Jazz
+51,0,HipHop
+36,0,EDM
+38,0,Hindi Pop
+24,1,Bhojpuri
+51,1,HipHop
+35,0,Classical
+61,1,Hindi Pop
+39,0,HipHop
+56,0,Classical
+35,0,Hindi Jazz
+29,0,Bhojpuri
+64,0,Bengali Jazz
+16,1,Hindi Jazz
+54,0,Classical
+22,0,Bhajan
+42,0,Hindi Jazz
+23,0,Hindi Pop
+50,0,English Jazz
+20,0,English Jazz
+42,0,Bengali Classical
+56,0,HipHop
+27,1,Bhojpuri
+40,1,English Jazz
+58,0,English Jazz
+34,1,English Pop
+19,0,Hindi Pop
+36,0,Classical
+65,1,English Pop
+16,0,Bhajan
+26,1,Classical
+27,1,Hindi Jazz
+55,1,English Pop
+21,0,Hindi Jazz
+28,1,Bhajan
+28,1,Bhojpuri
+57,1,Classical
+25,0,Bengali Jazz
+47,1,Dance Street
+57,1,HipHop
+23,0,HipHop
+24,1,English Pop
+23,1,Dance Street
+29,1,HipHop
+55,0,Bhojpuri
+22,0,English Pop
+37,0,Bengali Classical
+58,0,English Pop
+32,1,Classical
+25,1,Dance Street
+52,1,Bengali Jazz
+53,1,Bengali Jazz
+55,0,Bengali Classical
+27,1,HipHop
+59,0,English Jazz
+65,1,HipHop
+44,1,Bhojpuri
+31,0,Dance Street
+20,0,HipHop
+37,0,English Pop
