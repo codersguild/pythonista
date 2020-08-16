@@ -1,3 +1,6 @@
+# https://startupnextdoor.com/computing-convex-hull-in-python/
+# https://startupnextdoor.com/computing-convex-hull-in-python/
+
 from collections import namedtuple  
 import matplotlib.pyplot as plt  
 import random
