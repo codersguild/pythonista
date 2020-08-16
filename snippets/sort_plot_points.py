@@ -34,5 +34,3 @@ def plot () :
     plt.show()
 
 plot()
-
-# https://startupnextdoor.com/computing-convex-hull-in-python/
