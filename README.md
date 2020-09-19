@@ -11,3 +11,4 @@
 - [Understanding Python Language Features using ASTs](https://docs.python.org/3/library/ast.html)
 - [LLVM Architechture in Python](http://www.llvmpy.org/)
 - [Fuzzing Tool : Python](https://www.fuzzingbook.org/)
+- [Idiomatic Python](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/idiomatic-python.html)
