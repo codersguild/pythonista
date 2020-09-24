@@ -12,3 +12,4 @@
 - [LLVM Architechture in Python](http://www.llvmpy.org/)
 - [Fuzzing Tool : Python](https://www.fuzzingbook.org/)
 - [Idiomatic Python](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/idiomatic-python.html)
+- [Tail Recursion](https://www.educative.io/shoteditor/6325234209652736)
