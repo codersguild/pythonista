@@ -1,5 +1,5 @@
 ## Python3 & Machine Learning
-- Python for Software Architects & Noobs
+- Python for Developers (Otherwise ML Guys)
 
 ## Snippets. 
 - For Python using py features
@@ -14,3 +14,4 @@
 - [Idiomatic Python](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/idiomatic-python.html)
 - [Tail Recursion](https://www.educative.io/shoteditor/6325234209652736)
 - [Read Large Files](https://www.journaldev.com/32059/read-large-text-files-in-python) 
+- [Cool Microservices Example](http://skybert.net/python/developing-a-restful-micro-service-in-python/)
