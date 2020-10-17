@@ -15,3 +15,4 @@
 - [Tail Recursion](https://www.educative.io/shoteditor/6325234209652736)
 - [Read Large Files](https://www.journaldev.com/32059/read-large-text-files-in-python) 
 - [Cool Microservices Example](http://skybert.net/python/developing-a-restful-micro-service-in-python/)
+- [AT Parser Visitor](https://www.kite.com/python/docs/ast.NodeVisitor) Similar to Packrat parser
