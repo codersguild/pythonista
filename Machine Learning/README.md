@@ -1,6 +1,10 @@
-- [ ] Udemy Course on Machine Learning. 
-- [ ] https://www.udemy.com/course/machinelearning/learn/lecture/6087180?start=0#overview
-- [ ] https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg/playlists
+- [ ] Pytorch Examples : [Full Series](https://github.com/python-engineer/pytorch-examples)
+
+- [ ] Pytorch Beginner Tutorial : [Beginner Series](https://github.com/python-engineer/pytorchTutorial)
+
+- [ ] [Udemy ML](https://www.udemy.com/course/machinelearning/learn/lecture/6087180?start=0#overview)
+
+- [ ] [Youtube ML](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg/playlists)
 
 - [ ] ML Starter
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
