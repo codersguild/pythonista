@@ -63,20 +63,26 @@ class NeuralNet(nn.Module):
         self.input_size = input_size
         self.relu = nn.ReLU()
         self.l1 = nn.Linear(input_size, hidden_size)  # Input Layer
-        self.l2 = nn.Linear(hidden_size, int(hidden_size/2))
+        self.l2 = nn.Linear(hidden_size, int(hidden_size/2), bias=False)
         self.l3 = nn.Linear(int(hidden_size/2), int(hidden_size/2))
-        self.l4 = nn.Linear(int(hidden_size/2), int(hidden_size/4))
+        self.l4 = nn.Linear(int(hidden_size/2), int(hidden_size/4), bias=False)
         self.l5 = nn.Linear(int(hidden_size/4), num_classes)  # Output Layer
+        self.dropout1 = nn.Dropout(0.5)
+        self.dropout2 = nn.Dropout(0.3)
+        self.batchNorm1 = nn.BatchNorm1d(int(hidden_size/2))  # After L2
+        self.batchNorm2 = nn.BatchNorm1d(int(hidden_size/4))  # After L4
 
     def forward(self, x):
         out = self.l1(x)
         out = self.relu(out)
         out = self.l2(out)
+        out = self.batchNorm1(out)
         out = self.relu(out)
         out = self.l3(out)
-        out = self.relu(out)
+        out = self.dropout1(self.relu(out))  # Dropout to avoid overfitting
         out = self.l4(out)
-        out = self.relu(out)
+        out = self.batchNorm2(out)
+        out = self.dropout2(self.relu(out))  # Dropout to avoid overfitting
         out = self.l5(out)
         # no activation and no softmax at the end
         return out
@@ -139,6 +145,6 @@ with torch.no_grad():
             testbar()
 
     acc = 100.0 * n_correct / n_samples
-    print(f'Accuracy of the network on the 10000 test images: {acc:.3f} %')
+    print(f'Accuracy of the network on the 10000 test images: {acc:.4f} %')
 
 model.train()
