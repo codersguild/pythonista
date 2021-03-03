@@ -17,7 +17,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 input_size = 784  # 28 x 28
 hidden_size = 700
 num_classes = 10
-num_epochs = 10
+num_epochs = 20
 batch_size = 50
 learning_rate = 0.0009
 
@@ -148,3 +148,5 @@ with torch.no_grad():
     print(f'Accuracy of the network on the 10000 test images: {acc:.4f} %')
 
 model.train()
+
+# Accuracy : 98.9550, total time : 2 mins (2 X GTX 1060) seperate to.device()
