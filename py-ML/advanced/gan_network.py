@@ -1,5 +1,3 @@
-## Video & Code Example from : # https://youtu.be/OljTVUVzPpM
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -8,6 +6,8 @@ import torchvision.datasets as datasets
 from torch.utils.data import DataLoader
 import torchvision.transforms as transforms
 from torch.utils.tensorboard import SummaryWriter  # to print to tensorboard
+
+# From : https://youtu.be/OljTVUVzPpM
 
 
 class Discriminator(nn.Module):
@@ -50,7 +50,7 @@ disc = Discriminator(image_dim).to(device)
 gen = Generator(z_dim, image_dim).to(device)
 fixed_noise = torch.randn((batch_size, z_dim)).to(device)
 transforms = transforms.Compose(
-    [transforms.ToTensor(), transforms.Normalize((0.5,), (0.5,)),]
+    [transforms.ToTensor(), transforms.Normalize((0.5,), (0.5,)), ]
 )
 
 dataset = datasets.MNIST(root="dataset/", transform=transforms, download=True)
@@ -70,7 +70,7 @@ for epoch in range(num_epochs):
         real = real.view(-1, 784).to(device)
         batch_size = real.shape[0]
 
-        ### Train Discriminator: max log(D(x)) + log(1 - D(G(z)))
+        # Train Discriminator: max log(D(x)) + log(1 - D(G(z)))
         noise = torch.randn(batch_size, z_dim).to(device)
         fake = gen(noise)
         disc_real = disc(real).view(-1)
@@ -82,7 +82,7 @@ for epoch in range(num_epochs):
         lossD.backward(retain_graph=True)
         opt_disc.step()
 
-        ### Train Generator: min log(1 - D(G(z))) <-> max log(D(G(z))
+        # Train Generator: min log(1 - D(G(z))) <-> max log(D(G(z))
         # where the second option of maximizing doesn't suffer from
         # saturating gradients
         output = disc(fake).view(-1)
