@@ -26,3 +26,4 @@ Some Important Python Concepts & examples
 - [Read Large Files](https://www.journaldev.com/32059/read-large-text-files-in-python)
 - [Cool Microservices Example](http://skybert.net/python/developing-a-restful-micro-service-in-python/)
 - [AST Parser Visitor](https://www.kite.com/python/docs/ast.NodeVisitor)
+- [Python @staticmethod](https://realpython.com/instance-class-and-static-methods-demystified/)
