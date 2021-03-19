@@ -1,6 +1,12 @@
 nums = [1, 2, 3, 4, 5, 6, 7, 7, 8, 5, 3, 5, 7, 4]
 
 """
+Elem Check in List
+"""
+if 2 in nums:
+    contains = True
+
+"""
 List Comprehension
 """
 result1 = [x + 1 for x in nums]
