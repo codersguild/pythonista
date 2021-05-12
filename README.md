@@ -1,8 +1,8 @@
 ## Python3 & Machine Learning
 
 - Python for Developers (Otherwise ML Guys)
-- As far as ML is concerened I focus on `neural` program representations using `seq2seq` nets 
-- My research works needs good understanding of `reinforcement learning` & `deep-Q` networks. (This is my only exposure and focus area for ML)
+- Use of `neural network` to under `program graphs` and improve `program analysis`. 
+- My research works needs good understanding of `reinforcement learning` & `deep-Q` networks. (This is my major exposure area and focus agenda for ML)
 
 
 ## Code
