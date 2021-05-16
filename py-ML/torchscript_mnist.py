@@ -175,8 +175,7 @@ def main():
     if args.save_model:
         device2 = torch.device("cpu")
         scripted_model.to(device2)
-        scripted_model.save("mnist_cnn.pt")
-        # torch.save(scripted_model.state_dict(), "mnist_cnn.pt")
+        scripted_model.save("mnist_model_cpp.pt")
 
 
 if __name__ == '__main__':
