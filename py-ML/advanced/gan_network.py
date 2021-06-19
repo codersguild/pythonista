@@ -1,3 +1,5 @@
+
+# Reference : https://youtu.be/OljTVUVzPpM
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -6,8 +8,6 @@ import torchvision.datasets as datasets
 from torch.utils.data import DataLoader
 import torchvision.transforms as transforms
 from torch.utils.tensorboard import SummaryWriter  # to print to tensorboard
-
-# From : https://youtu.be/OljTVUVzPpM
 
 
 class Discriminator(nn.Module):

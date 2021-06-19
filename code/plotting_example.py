@@ -14,7 +14,7 @@ class Grid():
         self.grid = dict()
 
     """
-    Initiate the whole grid. Assign z3 variable to all points. 
+    Initiate the whole grid. Assign "Name" variables to all points. 
     """
 
     def init_grid(self):

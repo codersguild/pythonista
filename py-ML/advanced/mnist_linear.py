@@ -7,6 +7,9 @@ import torchvision.transforms as transforms
 from alive_progress import alive_bar
 import matplotlib.pyplot as plt
 
+# wget www.di.ens.fr/~lelarge/MNIST.tar.gz
+# tar -zxvf MNIST.tar.gz
+
 # Device configuration
 if torch.cuda.is_available():
     print("Running on GPU")

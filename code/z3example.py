@@ -1,5 +1,5 @@
-## Inspired by the question asked by Presh Talwakar  : https://www.youtube.com/watch?v=vrI3vTQteDo
-## I use Z3 tool by microsoft to solve it.
+# Inspired by the question asked by Presh Talwakar  : https://www.youtube.com/watch?v=vrI3vTQteDo
+# I use Z3 tool by microsoft to solve it.
 
 from z3 import *
 
