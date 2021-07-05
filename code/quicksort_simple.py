@@ -3,7 +3,8 @@ compare_count = 0
 def partition(arr, start, end):
     i = start - 1
     pivot = arr[end]
-
+    # pivot = arr[random.randint(start, end)] # For randomized QuickSort
+    
     compare = 0
     for j in range(start, end):
         if arr[j] <= pivot:
