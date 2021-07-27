@@ -20,6 +20,7 @@ Some Important Python Concepts & examples
 - [Pass by Name : Function Arguments](https://lucumr.pocoo.org/2011/7/9/python-and-pola/#pass-by-what-exactly)
 - [Understanding Python Language Features using ASTs](https://docs.python.org/3/library/ast.html)
 - [LLVM Architechture in Python](http://www.llvmpy.org/)
+- [Pattern Tutorials](https://www.youtube.com/watch?v=oNalXg67XEE)
 - [Fuzzing Tool : Python](https://www.fuzzingbook.org/)
 - [Idiomatic Python](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/idiomatic-python.html)
 - [Tail Recursion](https://www.educative.io/shoteditor/6325234209652736)
