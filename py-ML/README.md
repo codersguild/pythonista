@@ -13,3 +13,15 @@
 - [Algorithmic Trading Example](https://m.youtube.com/watch?v=_O4T5Vjmgeo)
 - [OpenAI Examples](https://m.youtube.com/watch?v=8MC3y7ASoPs)
 - [Python For Data Science](https://m.youtube.com/watch?v=LHBE6Q9XlzI)
+
+# Others : 
+
+- [NumPy Crash Course - Complete Tutorial](https://www.youtube.com/watch?v=9JUAPgtkKpI)
+- [Machine Learning From Scratch](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+- [PyTorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+- [Advanced PyTorch](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+- [Advanced Python](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
+- [DL4CV@WIS (Spring 2021) Tutorial 4: Advanced PyTorch](https://www.youtube.com/watch?v=Ak4vq2ER6qQ)
+- [Kaggle Starter](https://www.youtube.com/watch?v=YxQYvhap3kE&list=PLhhyoLH6IjfxkVb3Yx4mjLdwMWP5S_Hct)
+- [Machine Learning Seq2Seq](https://www.youtube.com/playlist?list=PLhhyoLH6Ijfyl_VMCsi54UqGQafGkNOQH)
+- [PyTorch KIM HKUST](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
