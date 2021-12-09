@@ -11,7 +11,7 @@
 - Frequently used code snippets & examples.
 - For Machine Learning Processing using `pytorch`, `scikit`, `matplotlib`, `pandas` & `numpy`.
 
-![Images](https://github.com/codersguild/pythonista/commit/b6ec750cb094c66f624d0339ef5f925419eba088)]
+![Images](https://github.com/codersguild/pythonista/commit/b6ec750cb094c66f624d0339ef5f925419eba088)
 
 ## PyLinks
 
